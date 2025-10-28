@@ -1,36 +1,44 @@
-# Heck-Tools-Extension
+🇫🇷 Version française
 
-Version FR (fançais) :
-
-Heck-Tools Extension est un script qui permet de faire des recherches rapides sur tous les sites provenant du site Heck-Tools.
+Heck-Tools-Extension est un script qui permet d’effectuer des recherches rapides sur tous les sites provenant de Heck-Tools.
 Lien : https://chocolife13.github.io/Heck-Tools/
 
-Il fonctionne avec Tampermonkey pour le moment.
+Il fonctionne avec Tampermonkey ou Google.
 
-Version EN (anglais) :
+Consultez les instructions si vous ne savez pas comment installer une extension en .zip.
 
-Heck-Tools Extension is a script that allows you to quickly search all sites coming from the Heck-Tools website.
+🇬🇧 English version
+
+Heck-Tools-Extension is a script that allows you to quickly search across all the sites from Heck-Tools.
 Link: https://chocolife13.github.io/Heck-Tools/
 
-It currently works with Tampermonkey.
+It works with Tampermonkey or Google.
 
-Version ES (espagnol) :
+Check the instructions if you don’t know how to install a .zip extension.
 
-Heck-Tools Extension es un script que permite realizar búsquedas rápidas en todos los sitios provenientes del sitio Heck-Tools.
+🇪🇸 Versión en español
+
+Heck-Tools-Extension es un script que permite realizar búsquedas rápidas en todos los sitios que provienen de Heck-Tools.
 Enlace: https://chocolife13.github.io/Heck-Tools/
 
-Actualmente funciona con Tampermonkey.
+Funciona con Tampermonkey o Google.
 
-Version DE (allemand) :
+Consulta las instrucciones si no sabes cómo instalar una extensión en .zip.
 
-Heck-Tools Extension ist ein Skript, mit dem Sie schnell alle Websites durchsuchen können, die von der Heck-Tools-Website stammen.
+🇩🇪 Deutsche Version
+
+Heck-Tools-Extension ist ein Skript, mit dem du schnell auf allen Websites von Heck-Tools suchen kannst.
 Link: https://chocolife13.github.io/Heck-Tools/
 
-Es funktioniert derzeit mit Tampermonkey.
+Es funktioniert mit Tampermonkey oder Google.
 
-Version IT (italien) :
+Lies die Anleitung, wenn du nicht weißt, wie man eine .zip-Erweiterung installiert.
 
-Heck-Tools Extension è uno script che permette di effettuare ricerche rapide su tutti i siti provenienti dal sito Heck-Tools.
+🇮🇹 Versione italiana
+
+Heck-Tools-Extension è uno script che consente di effettuare ricerche rapide su tutti i siti provenienti da Heck-Tools.
 Link: https://chocolife13.github.io/Heck-Tools/
 
-Funziona attualmente con Tampermonkey.
+Funziona con Tampermonkey o Google.
+
+Controlla le istruzioni se non sai come installare un’estensione in formato .zip.
